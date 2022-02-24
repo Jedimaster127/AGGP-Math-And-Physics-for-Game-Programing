@@ -169,7 +169,15 @@ MonoBehaviour:
   isDrawingOrigin: 0
   isDrawingAxis: 1
   isDrawingDivisions: 1
-  isDrawingDiamond: 0
+  isDrawingDiamond: 1
+  isDrawingHexagon: 1
+  isDrawingE: 1
+  porabing1: 1
+  porabing2: 1
+  porabing3: 1
+  porabing4: 1
+  numb: 22.5
+  count: 1
 --- !u!20 &519420031
 Camera:
   m_ObjectHideFlags: 0

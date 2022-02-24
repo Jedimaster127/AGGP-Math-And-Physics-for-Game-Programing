@@ -409,17 +409,31 @@ public class Lab1 : MonoBehaviour
             parabola4.Lines.Clear();
         }
 
+        if(Input.GetKeyDown(KeyCode.Tab))
+        {
+            if(isDrawingCircle)
+            {
+                isDrawingCircle = false;
+
+                isDrawingEllipse = true;
+            }
+            else
+            {
+                isDrawingCircle = true;
+
+                isDrawingEllipse = false;
+            }
+
+
+        }
+
         if(isDrawingCircle)
         {
-            isDrawingEllipse = false;
-
             DrawingTools.DrawCircle(grid.origin, radius, side, Color.white, grid);
         }
 
         if(isDrawingEllipse)
         {
-            isDrawingCircle = false;
-
             DrawingTools.DrawEllipse(grid.origin, new Vector3(side * width, side), side, Color.white, grid);
         }
 

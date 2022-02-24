@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Inspector
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 86
+  controlID: 89
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -227,7 +227,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 87
+  controlID: 16
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 88
+  controlID: 17
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -351,14 +351,15 @@ MonoBehaviour:
   m_LastFolders:
   - Assets/Scripts
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: D:\School\Spring 2022\math and Physics\unity\AGGP247-Lab stuff
+  m_LastProjectPath: D:\GitHub\AGGP-Math-And-Physics-for-Game-Programing\AGGP247-Lab
+    2
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 3a420000
     m_LastClickedID: 16954
-    m_ExpandedIDs: 000000003242000000ca9a3b
+    m_ExpandedIDs: 00000000324200003a42000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -413,7 +414,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -474,7 +475,7 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_LastInspectedObjectInstanceID: -1
-  m_LastVerticalScrollValue: 0
+  m_LastVerticalScrollValue: 93
   m_GlobalObjectId: 
   m_LockTracker:
     m_IsLocked: 0
@@ -507,9 +508,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: fa410000
-      m_LastClickedID: 16890
-      m_ExpandedIDs: 40fbfffff4ffffff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 60f8ffff7cf8ffff46f9ffff40fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -704,8 +705,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 1
-    m_VSlider: 1
+    m_HSlider: 0
+    m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -718,7 +719,7 @@ MonoBehaviour:
       y: 21
       width: 1102
       height: 588
-    m_Scale: {x: 1.5578815, y: 1.5578814}
+    m_Scale: {x: 0.765625, y: 0.765625}
     m_Translation: {x: 551, y: 294}
     m_MarginLeft: 0
     m_MarginRight: 0
@@ -726,10 +727,10 @@ MonoBehaviour:
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -353.68546
-      y: -188.71783
-      width: 707.3709
-      height: 377.43567
+      x: -719.67346
+      y: -384
+      width: 1439.3469
+      height: 768
     m_MinimalGUI: 1
   m_defaultScale: 0.765625
   m_LastWindowPixelSize: {x: 1102, y: 609}
