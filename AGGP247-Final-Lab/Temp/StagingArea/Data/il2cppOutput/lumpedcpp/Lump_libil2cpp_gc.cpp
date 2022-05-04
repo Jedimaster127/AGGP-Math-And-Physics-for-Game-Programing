@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "D:\School\New folder\2020.3.15f2\Editor\Data\il2cpp\libil2cpp\gc\BoehmGC.cpp"
+#include "D:\School\New folder\2020.3.15f2\Editor\Data\il2cpp\libil2cpp\gc\GCHandle.cpp"
+#include "D:\School\New folder\2020.3.15f2\Editor\Data\il2cpp\libil2cpp\gc\GarbageCollector.cpp"
+#include "D:\School\New folder\2020.3.15f2\Editor\Data\il2cpp\libil2cpp\gc\NullGC.cpp"
+#include "D:\School\New folder\2020.3.15f2\Editor\Data\il2cpp\libil2cpp\gc\WriteBarrier.cpp"
+#include "D:\School\New folder\2020.3.15f2\Editor\Data\il2cpp\libil2cpp\gc\WriteBarrierValidation.cpp"
